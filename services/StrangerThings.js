@@ -1,4 +1,3 @@
-
 'use strict';
 
 const flipout = require('flipout');
